@@ -6,4 +6,4 @@ git merge upstream/'2023'
 
 git checkout development
 git pull
-git merge main
+git merge '2023'
