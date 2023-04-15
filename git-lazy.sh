@@ -1,8 +1,8 @@
 #! /bin/bash
 
-git checkout '2023'
+git checkout 2023
 git fetch upstream
-git merge upstream/'2023'
+git merge upstream/2023
 git checkout development
 git pull
-git merge '2023'
+git merge 2023
